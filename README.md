@@ -10,3 +10,10 @@ Line-to-line (RY, YB, RB)
 Double line to ground (RYG, YBG, RBG)
 Triple line (RYB)
 Triple line to ground (RYBG) 
+
+
+**Result:**
+![image](https://github.com/mihikadhariwal/Fault-Classification-using-CNNs/assets/107950680/9d3dfd03-e7bc-4d59-bbea-ddda860404cb)
+
+
+**Accuracy:** Training: 88%, Testing: 83%
